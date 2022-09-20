@@ -14,6 +14,7 @@
 		6E88D71428D994B800DEEFCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E88D71328D994B800DEEFCA /* Assets.xcassets */; };
 		6E88D71728D994B800DEEFCA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E88D71528D994B800DEEFCA /* LaunchScreen.storyboard */; };
 		6E88D71F28D99BC300DEEFCA /* CellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E88D71E28D99BC300DEEFCA /* CellViewModel.swift */; };
+		6E88D72128D99CE900DEEFCA /* CellWithTwoLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E88D72028D99CE900DEEFCA /* CellWithTwoLabels.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6E88D71628D994B800DEEFCA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E88D71828D994B800DEEFCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E88D71E28D99BC300DEEFCA /* CellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellViewModel.swift; sourceTree = "<group>"; };
+		6E88D72028D99CE900DEEFCA /* CellWithTwoLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellWithTwoLabels.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				6E88D70C28D994B600DEEFCA /* SceneDelegate.swift */,
 				6E88D70E28D994B600DEEFCA /* ViewController.swift */,
 				6E88D71E28D99BC300DEEFCA /* CellViewModel.swift */,
+				6E88D72028D99CE900DEEFCA /* CellWithTwoLabels.swift */,
 				6E88D71028D994B600DEEFCA /* Main.storyboard */,
 				6E88D71328D994B800DEEFCA /* Assets.xcassets */,
 				6E88D71528D994B800DEEFCA /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E88D72128D99CE900DEEFCA /* CellWithTwoLabels.swift in Sources */,
 				6E88D70F28D994B600DEEFCA /* ViewController.swift in Sources */,
 				6E88D70B28D994B600DEEFCA /* AppDelegate.swift in Sources */,
 				6E88D71F28D99BC300DEEFCA /* CellViewModel.swift in Sources */,
